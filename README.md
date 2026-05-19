@@ -19,4 +19,7 @@ Apache License 2.0. Copyright 2026 EcoDeco AS.
 
 ## Status
 
-Pre-release. First public version pending merge of upstream contributions to `kelkalot/simpleaudit`.
+Companion to merged upstream contributions in kelkalot/simpleaudit:
+nav_aap (PR #17, merged 2026-05-08) and skatteetaten (PR #18, merged
+2026-05-11). These skills encode the same domain research used to build
+those evaluation packs.
