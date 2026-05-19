@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "nordeval-skills — Agent Skills for Norwegian public-sector domains"
+authors:
+  - family-names: "Botten Nicolaysen"
+    given-names: "Eirik"
+    orcid: "https://orcid.org/0009-0001-9188-6788"
+    affiliation: "EcoDeco AS"
+type: software
+repository-code: "https://github.com/avalyset/nordeval-skills"
+url: "https://osf.io/vz8xj/"
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/VZ8XJ
+    description: "Nordeval OSF Project"
+license: Apache-2.0
