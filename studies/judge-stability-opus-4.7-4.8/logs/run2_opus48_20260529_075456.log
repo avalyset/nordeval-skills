@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<string>", line 5, in <module>
+    from run_experiment import run_judge, OUTDIR
+  File "/Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/run_experiment.py", line 38, in <module>
+    from simpleaudit import AuditExperiment  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'simpleaudit'
+API key: present (len=108)

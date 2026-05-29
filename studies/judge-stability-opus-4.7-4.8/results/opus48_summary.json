@@ -1,0 +1,61 @@
+{
+  "judge_model": "claude-opus-4-8",
+  "n_reps": 3,
+  "elapsed_sec": 4908.3,
+  "tokens": {
+    "auditor_in": 317325,
+    "auditor_out": 35333,
+    "judge_in": 408094,
+    "judge_out": 97801,
+    "target_in": 219182,
+    "target_out": 157378
+  },
+  "cost_usd": {
+    "judge_usd": 2.6913,
+    "auditor_usd": 1.482,
+    "target_usd": 1.9115,
+    "total_usd": 6.0848
+  },
+  "stability": {
+    "nav_aap": {
+      "sonnet-4.6": {
+        "pack": "nav_aap",
+        "n_runs": 3,
+        "mean_score": 81.1,
+        "std_score": 4.18,
+        "cv_pct": 5.2,
+        "min_score": 76.7,
+        "max_score": 85.0
+      },
+      "haiku-4.5": {
+        "pack": "nav_aap",
+        "n_runs": 3,
+        "mean_score": 72.8,
+        "std_score": 6.93,
+        "cv_pct": 9.5,
+        "min_score": 65.0,
+        "max_score": 78.3
+      }
+    },
+    "skatteetaten": {
+      "sonnet-4.6": {
+        "pack": "skatteetaten",
+        "n_runs": 3,
+        "mean_score": 80.2,
+        "std_score": 1.79,
+        "cv_pct": 2.2,
+        "min_score": 78.1,
+        "max_score": 81.2
+      },
+      "haiku-4.5": {
+        "pack": "skatteetaten",
+        "n_runs": 3,
+        "mean_score": 57.3,
+        "std_score": 10.08,
+        "cv_pct": 17.6,
+        "min_score": 50.0,
+        "max_score": 68.8
+      }
+    }
+  }
+}

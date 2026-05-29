@@ -1,0 +1,1255 @@
+API key: present (len=108)
+
+============================================================
+=== STEG 1 av 2: Opus 4.7 som dommer ===
+============================================================
+
+  [claude-opus-4-7] Pack: nav_aap — 3 reps × 3 turns ...
+
+
+
+Models:   0%|          | 0/2 [00:00<?, ?it/s][A[A[A
+
+sonnet-4.6 — repetitions:   0%|          | 0/3 [00:00<?, ?it/s][A[A3 Turns & 15 Scenarios | Audit Progress:   0%|          | 0/45 [00:00<?, ?it/s]
+Judge Progress:   0%|          | 0/15 [00:00<?, ?it/s][A[05/29/26 05:21:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   2%|▏         | 1/45 [00:09<06:41,  9.12s/it][05/29/26 05:21:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:21:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   4%|▍         | 2/45 [00:20<07:36, 10.61s/it][05/29/26 05:21:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:21:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   7%|▋         | 3/45 [00:26<05:54,  8.43s/it][05/29/26 05:21:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:   7%|▋         | 1/15 [00:36<08:33, 36.65s/it][A[05/29/26 05:21:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   9%|▉         | 4/45 [00:49<09:35, 14.04s/it][05/29/26 05:22:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:22:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  11%|█         | 5/45 [01:05<09:59, 14.99s/it][05/29/26 05:22:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:22:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  13%|█▎        | 6/45 [01:27<11:07, 17.10s/it][05/29/26 05:22:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  13%|█▎        | 2/15 [01:36<10:53, 50.27s/it][A[05/29/26 05:22:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  16%|█▌        | 7/45 [01:46<11:16, 17.81s/it][05/29/26 05:23:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:23:07] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  18%|█▊        | 8/45 [01:59<10:06, 16.40s/it][05/29/26 05:23:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:23:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  20%|██        | 9/45 [02:16<09:56, 16.58s/it][05/29/26 05:23:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  20%|██        | 3/15 [02:26<10:03, 50.27s/it][A[05/29/26 05:23:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  22%|██▏       | 10/45 [02:35<10:04, 17.28s/it][05/29/26 05:23:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:23:55] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  24%|██▍       | 11/45 [02:46<08:38, 15.24s/it][05/29/26 05:24:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:24:07] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  27%|██▋       | 12/45 [02:56<07:36, 13.84s/it][05/29/26 05:24:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  27%|██▋       | 4/15 [03:06<08:26, 46.03s/it][A[05/29/26 05:24:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  29%|██▉       | 13/45 [03:17<08:32, 16.00s/it][05/29/26 05:24:34] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:24:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  31%|███       | 14/45 [03:35<08:28, 16.39s/it][05/29/26 05:24:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:25:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  33%|███▎      | 15/45 [04:00<09:34, 19.14s/it][05/29/26 05:25:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  33%|███▎      | 5/15 [04:14<09:00, 54.01s/it][A[05/29/26 05:25:30] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  36%|███▌      | 16/45 [04:26<10:11, 21.09s/it][05/29/26 05:25:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:25:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  38%|███▊      | 17/45 [04:47<09:53, 21.18s/it][05/29/26 05:26:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:26:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  40%|████      | 18/45 [05:03<08:46, 19.50s/it][05/29/26 05:26:19] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  40%|████      | 6/15 [05:20<08:42, 58.05s/it][A[05/29/26 05:26:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  42%|████▏     | 19/45 [05:31<09:37, 22.22s/it][05/29/26 05:26:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:26:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  44%|████▍     | 20/45 [05:49<08:38, 20.76s/it][05/29/26 05:27:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:27:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  47%|████▋     | 21/45 [06:05<07:48, 19.52s/it][05/29/26 05:27:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  47%|████▋     | 7/15 [06:20<07:49, 58.73s/it][A[05/29/26 05:27:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  49%|████▉     | 22/45 [06:30<08:03, 21.01s/it][05/29/26 05:27:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:27:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  51%|█████     | 23/45 [06:44<07:00, 19.11s/it][05/29/26 05:28:01] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:28:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  53%|█████▎    | 24/45 [06:59<06:10, 17.65s/it][05/29/26 05:28:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  53%|█████▎    | 8/15 [07:12<06:35, 56.49s/it][A[05/29/26 05:28:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  56%|█████▌    | 25/45 [07:21<06:20, 19.04s/it][05/29/26 05:28:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:28:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  58%|█████▊    | 26/45 [07:38<05:48, 18.35s/it][05/29/26 05:28:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:28:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  60%|██████    | 27/45 [07:53<05:11, 17.31s/it][05/29/26 05:29:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  60%|██████    | 9/15 [08:00<05:24, 54.10s/it][A[05/29/26 05:29:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  62%|██████▏   | 28/45 [08:11<05:00, 17.70s/it][05/29/26 05:29:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:29:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  64%|██████▍   | 29/45 [08:28<04:39, 17.44s/it][05/29/26 05:29:44] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:29:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  67%|██████▋   | 30/45 [08:46<04:23, 17.54s/it][05/29/26 05:30:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  67%|██████▋   | 10/15 [08:57<04:34, 54.90s/it][A[05/29/26 05:30:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  69%|██████▉   | 31/45 [09:09<04:29, 19.26s/it][05/29/26 05:30:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:30:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  71%|███████   | 32/45 [09:24<03:54, 18.06s/it][05/29/26 05:30:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:30:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  73%|███████▎  | 33/45 [09:38<03:22, 16.84s/it][05/29/26 05:30:55] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  73%|███████▎  | 11/15 [09:46<03:32, 53.09s/it][A[05/29/26 05:31:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  76%|███████▌  | 34/45 [09:56<03:09, 17.24s/it][05/29/26 05:31:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:31:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  78%|███████▊  | 35/45 [10:06<02:30, 15.05s/it][05/29/26 05:31:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:31:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  80%|████████  | 36/45 [10:15<01:57, 13.03s/it][05/29/26 05:31:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  80%|████████  | 12/15 [10:23<02:24, 48.19s/it][A[05/29/26 05:31:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  82%|████████▏ | 37/45 [10:27<01:42, 12.87s/it][05/29/26 05:31:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:31:47] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  84%|████████▍ | 38/45 [10:37<01:23, 11.98s/it][05/29/26 05:31:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:32:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  87%|████████▋ | 39/45 [10:49<01:10, 11.83s/it][05/29/26 05:32:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  87%|████████▋ | 13/15 [10:59<01:28, 44.32s/it][A[05/29/26 05:32:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  89%|████████▉ | 40/45 [11:09<01:12, 14.42s/it][05/29/26 05:32:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:32:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  91%|█████████ | 41/45 [11:26<01:00, 15.10s/it][05/29/26 05:32:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:32:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  93%|█████████▎| 42/45 [11:43<00:47, 15.86s/it][05/29/26 05:33:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  93%|█████████▎| 14/15 [11:53<00:47, 47.51s/it][A[05/29/26 05:33:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  96%|█████████▌| 43/45 [12:04<00:34, 17.43s/it][05/29/26 05:33:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:33:26] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  98%|█████████▊| 44/45 [12:19<00:16, 16.50s/it][05/29/26 05:33:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:33:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [12:33<00:00, 15.73s/it][05/29/26 05:33:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress: 100%|██████████| 15/15 [12:43<00:00, 48.16s/it][AJudge Progress: 100%|██████████| 15/15 [12:43<00:00, 50.91s/it]
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [12:43<00:00, 16.97s/it]
+
+
+sonnet-4.6 — repetitions:  33%|███▎      | 1/3 [12:43<25:27, 763.65s/it][A[A✓ Results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/sonnet-4.6/run_0.json
+3 Turns & 15 Scenarios | Audit Progress:   0%|          | 0/45 [00:00<?, ?it/s]
+Judge Progress:   0%|          | 0/15 [00:00<?, ?it/s][A[05/29/26 05:33:59] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   2%|▏         | 1/45 [00:09<06:44,  9.20s/it][05/29/26 05:34:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:34:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   4%|▍         | 2/45 [00:24<09:03, 12.64s/it][05/29/26 05:34:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:34:30] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   7%|▋         | 3/45 [00:35<08:14, 11.78s/it][05/29/26 05:34:34] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:   7%|▋         | 1/15 [00:45<10:40, 45.76s/it][A[05/29/26 05:34:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   9%|▉         | 4/45 [00:57<11:00, 16.10s/it][05/29/26 05:34:57] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:35:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  11%|█         | 5/45 [01:16<11:26, 17.17s/it][05/29/26 05:35:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:35:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  13%|█▎        | 6/45 [01:45<13:48, 21.25s/it][05/29/26 05:35:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  13%|█▎        | 2/15 [01:59<13:25, 62.00s/it][A[05/29/26 05:35:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  16%|█▌        | 7/45 [02:09<13:55, 21.98s/it][05/29/26 05:36:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:36:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  18%|█▊        | 8/45 [02:25<12:19, 19.98s/it][05/29/26 05:36:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:36:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  20%|██        | 9/45 [02:40<11:02, 18.41s/it][05/29/26 05:36:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  20%|██        | 3/15 [02:51<11:32, 57.69s/it][A[05/29/26 05:36:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  22%|██▏       | 10/45 [03:00<11:00, 18.87s/it][05/29/26 05:36:59] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:37:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  24%|██▍       | 11/45 [03:11<09:21, 16.53s/it][05/29/26 05:37:11] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:37:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  27%|██▋       | 12/45 [03:19<07:39, 13.91s/it][05/29/26 05:37:19] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  27%|██▋       | 4/15 [03:30<09:12, 50.24s/it][A[05/29/26 05:37:30] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  29%|██▉       | 13/45 [03:41<08:49, 16.54s/it][05/29/26 05:37:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:37:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  31%|███       | 14/45 [03:58<08:31, 16.51s/it][05/29/26 05:37:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:38:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  33%|███▎      | 15/45 [04:17<08:44, 17.49s/it][05/29/26 05:38:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  33%|███▎      | 5/15 [04:28<08:50, 53.09s/it][A[05/29/26 05:38:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  36%|███▌      | 16/45 [04:41<09:19, 19.31s/it][05/29/26 05:38:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:38:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  38%|███▊      | 17/45 [04:56<08:22, 17.95s/it][05/29/26 05:38:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:39:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  40%|████      | 18/45 [05:15<08:19, 18.49s/it][05/29/26 05:39:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  40%|████      | 6/15 [05:28<08:19, 55.52s/it][A[05/29/26 05:39:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  42%|████▏     | 19/45 [05:39<08:42, 20.10s/it][05/29/26 05:39:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:39:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  44%|████▍     | 20/45 [05:53<07:30, 18.03s/it][05/29/26 05:39:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:39:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  47%|████▋     | 21/45 [06:08<06:56, 17.35s/it][05/29/26 05:40:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  47%|████▋     | 7/15 [06:19<07:12, 54.01s/it][A[05/29/26 05:40:19] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  49%|████▉     | 22/45 [06:28<06:57, 18.14s/it][05/29/26 05:40:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:40:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  51%|█████     | 23/45 [06:42<06:07, 16.72s/it][05/29/26 05:40:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:40:47] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  53%|█████▎    | 24/45 [07:06<06:36, 18.88s/it][05/29/26 05:41:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  53%|█████▎    | 8/15 [07:14<06:20, 54.36s/it][A[05/29/26 05:41:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  56%|█████▌    | 25/45 [07:25<06:17, 18.89s/it][05/29/26 05:41:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:41:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  58%|█████▊    | 26/45 [07:39<05:32, 17.52s/it][05/29/26 05:41:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:41:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  60%|██████    | 27/45 [08:06<06:09, 20.54s/it][05/29/26 05:42:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  60%|██████    | 9/15 [08:20<05:46, 57.82s/it][A[05/29/26 05:42:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  62%|██████▏   | 28/45 [08:30<06:02, 21.32s/it][05/29/26 05:42:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:42:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  64%|██████▍   | 29/45 [08:47<05:23, 20.20s/it][05/29/26 05:42:47] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:42:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  67%|██████▋   | 30/45 [09:02<04:36, 18.44s/it][05/29/26 05:43:01] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  67%|██████▋   | 10/15 [09:12<04:40, 56.09s/it][A[05/29/26 05:43:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  69%|██████▉   | 31/45 [09:22<04:28, 19.17s/it][05/29/26 05:43:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:43:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  71%|███████   | 32/45 [09:36<03:46, 17.38s/it][05/29/26 05:43:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:43:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  73%|███████▎  | 33/45 [09:51<03:20, 16.75s/it][05/29/26 05:43:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  73%|███████▎  | 11/15 [09:58<03:32, 53.12s/it][A[05/29/26 05:43:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  76%|███████▌  | 34/45 [10:10<03:11, 17.37s/it][05/29/26 05:44:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:44:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  78%|███████▊  | 35/45 [10:22<02:37, 15.73s/it][05/29/26 05:44:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:44:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  80%|████████  | 36/45 [10:32<02:06, 14.11s/it][05/29/26 05:44:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  80%|████████  | 12/15 [10:39<02:27, 49.27s/it][A[05/29/26 05:44:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  82%|████████▏ | 37/45 [10:43<01:46, 13.29s/it][05/29/26 05:44:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:44:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  84%|████████▍ | 38/45 [10:55<01:29, 12.74s/it][05/29/26 05:44:55] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:45:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  87%|████████▋ | 39/45 [11:10<01:20, 13.50s/it][05/29/26 05:45:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  87%|████████▋ | 13/15 [11:23<01:35, 47.78s/it][A[05/29/26 05:45:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  89%|████████▉ | 40/45 [11:33<01:21, 16.35s/it][05/29/26 05:45:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:45:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  91%|█████████ | 41/45 [11:48<01:04, 16.06s/it][05/29/26 05:45:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:45:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  93%|█████████▎| 42/45 [12:04<00:47, 15.88s/it][05/29/26 05:46:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  93%|█████████▎| 14/15 [12:13<00:48, 48.47s/it][A[05/29/26 05:46:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  96%|█████████▌| 43/45 [12:23<00:33, 16.77s/it][05/29/26 05:46:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:46:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  98%|█████████▊| 44/45 [12:38<00:16, 16.32s/it][05/29/26 05:46:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:46:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [12:53<00:00, 16.05s/it][05/29/26 05:46:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress: 100%|██████████| 15/15 [13:02<00:00, 48.55s/it][AJudge Progress: 100%|██████████| 15/15 [13:02<00:00, 52.17s/it]
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [13:02<00:00, 17.39s/it]
+
+
+sonnet-4.6 — repetitions:  67%|██████▋   | 2/3 [25:46<12:54, 774.78s/it][A[A✓ Results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/sonnet-4.6/run_1.json
+3 Turns & 15 Scenarios | Audit Progress:   0%|          | 0/45 [00:00<?, ?it/s]
+Judge Progress:   0%|          | 0/15 [00:00<?, ?it/s][A[05/29/26 05:47:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   2%|▏         | 1/45 [00:08<06:19,  8.61s/it][05/29/26 05:47:11] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:47:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   4%|▍         | 2/45 [00:20<07:40, 10.70s/it][05/29/26 05:47:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:47:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   7%|▋         | 3/45 [00:29<06:50,  9.78s/it][05/29/26 05:47:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:   7%|▋         | 1/15 [00:38<08:57, 38.43s/it][A[05/29/26 05:47:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   9%|▉         | 4/45 [00:51<09:59, 14.62s/it][05/29/26 05:47:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:47:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  11%|█         | 5/45 [01:06<09:44, 14.62s/it][05/29/26 05:48:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:48:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  13%|█▎        | 6/45 [01:25<10:27, 16.10s/it][05/29/26 05:48:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  13%|█▎        | 2/15 [01:37<10:57, 50.56s/it][A[05/29/26 05:48:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  16%|█▌        | 7/45 [01:46<11:22, 17.96s/it][05/29/26 05:48:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:48:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  18%|█▊        | 8/45 [01:58<09:55, 16.09s/it][05/29/26 05:49:01] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:49:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  20%|██        | 9/45 [02:14<09:30, 15.85s/it][05/29/26 05:49:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  20%|██        | 3/15 [02:23<09:42, 48.54s/it][A[05/29/26 05:49:26] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  22%|██▏       | 10/45 [02:32<09:42, 16.63s/it][05/29/26 05:49:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:49:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  24%|██▍       | 11/45 [02:41<08:04, 14.26s/it][05/29/26 05:49:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:49:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  27%|██▋       | 12/45 [02:54<07:39, 13.93s/it][05/29/26 05:49:57] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  27%|██▋       | 4/15 [03:05<08:24, 45.84s/it][A[05/29/26 05:50:07] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  29%|██▉       | 13/45 [03:15<08:34, 16.09s/it][05/29/26 05:50:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:50:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  31%|███       | 14/45 [03:30<08:09, 15.79s/it][05/29/26 05:50:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:50:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  33%|███▎      | 15/45 [03:47<08:02, 16.08s/it][05/29/26 05:50:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  33%|███▎      | 5/15 [03:55<07:55, 47.56s/it][A[05/29/26 05:50:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  36%|███▌      | 16/45 [04:07<08:18, 17.19s/it][05/29/26 05:51:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:51:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  38%|███▊      | 17/45 [04:23<07:50, 16.79s/it][05/29/26 05:51:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:51:30] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  40%|████      | 18/45 [04:38<07:23, 16.42s/it][05/29/26 05:51:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  40%|████      | 6/15 [04:49<07:26, 49.59s/it][A[05/29/26 05:51:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  42%|████▏     | 19/45 [05:00<07:49, 18.04s/it][05/29/26 05:52:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:52:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  44%|████▍     | 20/45 [05:16<07:11, 17.27s/it][05/29/26 05:52:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:52:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  47%|████▋     | 21/45 [05:32<06:51, 17.15s/it][05/29/26 05:52:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  47%|████▋     | 7/15 [05:50<07:06, 53.33s/it][A[05/29/26 05:52:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  49%|████▉     | 22/45 [06:01<07:51, 20.52s/it][05/29/26 05:53:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:53:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  51%|█████     | 23/45 [06:17<07:05, 19.34s/it][05/29/26 05:53:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:53:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  53%|█████▎    | 24/45 [06:33<06:21, 18.19s/it][05/29/26 05:53:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  53%|█████▎    | 8/15 [06:45<06:17, 53.86s/it][A[05/29/26 05:53:47] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  56%|█████▌    | 25/45 [06:54<06:21, 19.09s/it][05/29/26 05:53:57] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:54:01] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  58%|█████▊    | 26/45 [07:15<06:14, 19.71s/it][05/29/26 05:54:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:54:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  60%|██████    | 27/45 [07:37<06:03, 20.19s/it][05/29/26 05:54:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  60%|██████    | 9/15 [07:50<05:43, 57.29s/it][A[05/29/26 05:54:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  62%|██████▏   | 28/45 [08:00<05:59, 21.14s/it][05/29/26 05:55:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:55:07] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  64%|██████▍   | 29/45 [08:16<05:11, 19.46s/it][05/29/26 05:55:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:55:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  67%|██████▋   | 30/45 [08:33<04:41, 18.75s/it][05/29/26 05:55:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  67%|██████▋   | 10/15 [08:44<04:40, 56.20s/it][A[05/29/26 05:55:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  69%|██████▉   | 31/45 [08:54<04:33, 19.52s/it][05/29/26 05:55:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:56:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  71%|███████   | 32/45 [09:09<03:58, 18.33s/it][05/29/26 05:56:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:56:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  73%|███████▎  | 33/45 [09:21<03:17, 16.43s/it][05/29/26 05:56:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  73%|███████▎  | 11/15 [09:30<03:32, 53.23s/it][A[05/29/26 05:56:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  76%|███████▌  | 34/45 [09:42<03:13, 17.59s/it][05/29/26 05:56:44] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:56:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  78%|███████▊  | 35/45 [09:58<02:50, 17.03s/it][05/29/26 05:57:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:57:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  80%|████████  | 36/45 [10:12<02:25, 16.17s/it][05/29/26 05:57:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  80%|████████  | 12/15 [10:20<02:36, 52.11s/it][A[05/29/26 05:57:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  82%|████████▏ | 37/45 [10:24<02:00, 15.10s/it][05/29/26 05:57:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:57:30] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  84%|████████▍ | 38/45 [10:34<01:33, 13.36s/it][05/29/26 05:57:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:57:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  87%|████████▋ | 39/45 [10:47<01:20, 13.35s/it][05/29/26 05:57:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  87%|████████▋ | 13/15 [10:57<01:35, 47.76s/it][A[05/29/26 05:58:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  89%|████████▉ | 40/45 [11:07<01:17, 15.43s/it][05/29/26 05:58:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:58:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  91%|█████████ | 41/45 [11:22<01:00, 15.16s/it][05/29/26 05:58:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:58:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  93%|█████████▎| 42/45 [11:39<00:47, 15.84s/it][05/29/26 05:58:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  93%|█████████▎| 14/15 [11:47<00:48, 48.35s/it][A[05/29/26 05:58:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  96%|█████████▌| 43/45 [11:58<00:33, 16.61s/it][05/29/26 05:59:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:59:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  98%|█████████▊| 44/45 [12:12<00:16, 16.08s/it][05/29/26 05:59:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:59:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [12:29<00:00, 16.14s/it][05/29/26 05:59:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress: 100%|██████████| 15/15 [12:37<00:00, 48.96s/it][AJudge Progress: 100%|██████████| 15/15 [12:37<00:00, 50.53s/it]
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [12:37<00:00, 16.84s/it]
+
+
+sonnet-4.6 — repetitions: 100%|██████████| 3/3 [38:24<00:00, 767.11s/it][A[A
+
+                                                                        [A[A
+
+
+Models:  50%|█████     | 1/2 [38:24<38:24, 2304.20s/it][A[A[A✓ Results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/sonnet-4.6/run_2.json
+
+
+haiku-4.5 — repetitions:   0%|          | 0/3 [00:00<?, ?it/s][A[A3 Turns & 15 Scenarios | Audit Progress:   0%|          | 0/45 [00:00<?, ?it/s]
+Judge Progress:   0%|          | 0/15 [00:00<?, ?it/s][A[05/29/26 05:59:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   2%|▏         | 1/45 [00:04<03:39,  5.00s/it][05/29/26 05:59:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:59:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   4%|▍         | 2/45 [00:11<04:08,  5.79s/it][05/29/26 05:59:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 05:59:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   7%|▋         | 3/45 [00:19<04:47,  6.84s/it][05/29/26 05:59:59] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:   7%|▋         | 1/15 [00:29<06:47, 29.12s/it][A[05/29/26 06:00:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   9%|▉         | 4/45 [00:34<06:48,  9.96s/it][05/29/26 06:00:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:00:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  11%|█         | 5/45 [00:44<06:48, 10.21s/it][05/29/26 06:00:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:00:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  13%|█▎        | 6/45 [00:58<07:30, 11.54s/it][05/29/26 06:00:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  13%|█▎        | 2/15 [01:11<08:00, 36.95s/it][A[05/29/26 06:00:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  16%|█▌        | 7/45 [01:16<08:31, 13.46s/it][05/29/26 06:00:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:01:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  18%|█▊        | 8/45 [01:24<07:15, 11.78s/it][05/29/26 06:01:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:01:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  20%|██        | 9/45 [01:34<06:44, 11.24s/it][05/29/26 06:01:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  20%|██        | 3/15 [01:45<07:06, 35.52s/it][A[05/29/26 06:01:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  22%|██▏       | 10/45 [01:49<07:11, 12.32s/it][05/29/26 06:01:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:01:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  24%|██▍       | 11/45 [01:55<05:51, 10.34s/it][05/29/26 06:01:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:01:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  27%|██▋       | 12/45 [02:03<05:16,  9.59s/it][05/29/26 06:01:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  27%|██▋       | 4/15 [02:12<05:55, 32.32s/it][A[05/29/26 06:01:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  29%|██▉       | 13/45 [02:18<06:00, 11.28s/it][05/29/26 06:01:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:02:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  31%|███       | 14/45 [02:27<05:34, 10.78s/it][05/29/26 06:02:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:02:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  33%|███▎      | 15/45 [02:38<05:18, 10.61s/it][05/29/26 06:02:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  33%|███▎      | 5/15 [02:47<05:32, 33.22s/it][A[05/29/26 06:02:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  36%|███▌      | 16/45 [02:54<05:54, 12.23s/it][05/29/26 06:02:34] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:02:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  38%|███▊      | 17/45 [03:04<05:25, 11.63s/it][05/29/26 06:02:44] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:02:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  40%|████      | 18/45 [03:13<04:54, 10.90s/it][05/29/26 06:02:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  40%|████      | 6/15 [03:25<05:12, 34.77s/it][A[05/29/26 06:03:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  42%|████▏     | 19/45 [03:30<05:30, 12.70s/it][05/29/26 06:03:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:03:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  44%|████▍     | 20/45 [03:39<04:53, 11.75s/it][05/29/26 06:03:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:03:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  47%|████▋     | 21/45 [03:49<04:23, 10.97s/it][05/29/26 06:03:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  47%|████▋     | 7/15 [04:01<04:41, 35.16s/it][A[05/29/26 06:03:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  49%|████▉     | 22/45 [04:06<04:53, 12.76s/it][05/29/26 06:03:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:03:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  51%|█████     | 23/45 [04:15<04:17, 11.73s/it][05/29/26 06:03:55] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:04:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  53%|█████▎    | 24/45 [04:25<03:57, 11.33s/it][05/29/26 06:04:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  53%|█████▎    | 8/15 [04:37<04:07, 35.43s/it][A[05/29/26 06:04:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  56%|█████▌    | 25/45 [04:42<04:17, 12.88s/it][05/29/26 06:04:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:04:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  58%|█████▊    | 26/45 [04:50<03:35, 11.36s/it][05/29/26 06:04:30] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:04:34] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  60%|██████    | 27/45 [04:59<03:12, 10.67s/it][05/29/26 06:04:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  60%|██████    | 9/15 [05:10<03:27, 34.57s/it][A[05/29/26 06:04:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  62%|██████▏   | 28/45 [05:14<03:27, 12.20s/it][05/29/26 06:04:55] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:05:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  64%|██████▍   | 29/45 [05:28<03:23, 12.69s/it][05/29/26 06:05:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:05:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  67%|██████▋   | 30/45 [05:41<03:10, 12.67s/it][05/29/26 06:05:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  67%|██████▋   | 10/15 [05:52<03:04, 36.93s/it][A[05/29/26 06:05:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  69%|██████▉   | 31/45 [05:56<03:09, 13.52s/it][05/29/26 06:05:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:05:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  71%|███████   | 32/45 [06:07<02:45, 12.72s/it][05/29/26 06:05:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:05:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  73%|███████▎  | 33/45 [06:24<02:46, 13.85s/it][05/29/26 06:06:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  73%|███████▎  | 11/15 [06:34<02:34, 38.66s/it][A[05/29/26 06:06:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  76%|███████▌  | 34/45 [06:41<02:42, 14.76s/it][05/29/26 06:06:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:06:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  78%|███████▊  | 35/45 [06:52<02:19, 13.90s/it][05/29/26 06:06:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:06:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  80%|████████  | 36/45 [07:05<02:02, 13.58s/it][05/29/26 06:06:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  80%|████████  | 12/15 [07:17<01:59, 39.96s/it][A[05/29/26 06:06:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  82%|████████▏ | 37/45 [07:24<02:00, 15.09s/it][05/29/26 06:07:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:07:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  84%|████████▍ | 38/45 [07:38<01:43, 14.80s/it][05/29/26 06:07:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:07:26] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  87%|████████▋ | 39/45 [07:53<01:28, 14.81s/it][05/29/26 06:07:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  87%|████████▋ | 13/15 [08:09<01:27, 43.61s/it][A[05/29/26 06:07:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  89%|████████▉ | 40/45 [08:14<01:23, 16.64s/it][05/29/26 06:07:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:08:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  91%|█████████ | 41/45 [08:26<01:01, 15.25s/it][05/29/26 06:08:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:08:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  93%|█████████▎| 42/45 [08:37<00:42, 14.02s/it][05/29/26 06:08:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  93%|█████████▎| 14/15 [08:47<00:41, 41.88s/it][A[05/29/26 06:08:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  96%|█████████▌| 43/45 [08:52<00:28, 14.32s/it][05/29/26 06:08:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:08:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  98%|█████████▊| 44/45 [09:02<00:12, 12.98s/it][05/29/26 06:08:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:08:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [09:15<00:00, 13.05s/it][05/29/26 06:08:55] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress: 100%|██████████| 15/15 [09:27<00:00, 41.26s/it][AJudge Progress: 100%|██████████| 15/15 [09:27<00:00, 37.83s/it]
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [09:27<00:00, 12.61s/it]
+
+
+haiku-4.5 — repetitions:  33%|███▎      | 1/3 [09:27<18:55, 567.51s/it][A[A✓ Results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/haiku-4.5/run_0.json
+3 Turns & 15 Scenarios | Audit Progress:   0%|          | 0/45 [00:00<?, ?it/s]
+Judge Progress:   0%|          | 0/15 [00:00<?, ?it/s][A[05/29/26 06:09:07] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   2%|▏         | 1/45 [00:04<03:25,  4.68s/it][05/29/26 06:09:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:09:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   4%|▍         | 2/45 [00:12<04:42,  6.57s/it][05/29/26 06:09:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:09:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   7%|▋         | 3/45 [00:18<04:19,  6.17s/it][05/29/26 06:09:26] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:   7%|▋         | 1/15 [00:27<06:22, 27.31s/it][A[05/29/26 06:09:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   9%|▉         | 4/45 [00:32<06:25,  9.41s/it][05/29/26 06:09:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:09:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  11%|█         | 5/45 [00:43<06:31,  9.78s/it][05/29/26 06:09:51] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:09:57] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  13%|█▎        | 6/45 [00:54<06:42, 10.32s/it][05/29/26 06:10:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  13%|█▎        | 2/15 [01:08<07:44, 35.71s/it][A[05/29/26 06:10:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  16%|█▌        | 7/45 [01:15<08:42, 13.74s/it][05/29/26 06:10:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:10:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  18%|█▊        | 8/45 [01:24<07:38, 12.40s/it][05/29/26 06:10:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:10:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  20%|██        | 9/45 [01:37<07:26, 12.40s/it][05/29/26 06:10:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  20%|██        | 3/15 [01:51<07:43, 38.66s/it][A[05/29/26 06:10:59] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  22%|██▏       | 10/45 [01:54<08:11, 14.04s/it][05/29/26 06:11:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:11:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  24%|██▍       | 11/45 [02:02<06:45, 11.94s/it][05/29/26 06:11:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:11:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  27%|██▋       | 12/45 [02:10<06:01, 10.95s/it][05/29/26 06:11:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  27%|██▋       | 4/15 [02:24<06:42, 36.58s/it][A[05/29/26 06:11:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  29%|██▉       | 13/45 [02:30<07:12, 13.53s/it][05/29/26 06:11:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:11:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  31%|███       | 14/45 [02:38<06:10, 11.95s/it][05/29/26 06:11:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:11:49] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  33%|███▎      | 15/45 [02:45<05:16, 10.54s/it][05/29/26 06:11:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  33%|███▎      | 5/15 [02:56<05:49, 34.90s/it][A[05/29/26 06:12:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  36%|███▌      | 16/45 [03:01<05:53, 12.20s/it][05/29/26 06:12:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:12:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  38%|███▊      | 17/45 [03:12<05:28, 11.74s/it][05/29/26 06:12:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:12:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  40%|████      | 18/45 [03:25<05:25, 12.06s/it][05/29/26 06:12:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  40%|████      | 6/15 [03:36<05:30, 36.72s/it][A[05/29/26 06:12:44] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  42%|████▏     | 19/45 [03:40<05:41, 13.13s/it][05/29/26 06:12:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:12:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  44%|████▍     | 20/45 [03:49<04:50, 11.63s/it][05/29/26 06:12:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:13:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  47%|████▋     | 21/45 [03:58<04:24, 11.04s/it][05/29/26 06:13:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  47%|████▋     | 7/15 [04:11<04:49, 36.20s/it][A[05/29/26 06:13:19] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  49%|████▉     | 22/45 [04:17<05:03, 13.21s/it][05/29/26 06:13:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:13:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  51%|█████     | 23/45 [04:25<04:16, 11.67s/it][05/29/26 06:13:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:13:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  53%|█████▎    | 24/45 [04:33<03:47, 10.85s/it][05/29/26 06:13:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  53%|█████▎    | 8/15 [04:44<04:05, 35.04s/it][A[05/29/26 06:13:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  56%|█████▌    | 25/45 [04:48<03:58, 11.93s/it][05/29/26 06:13:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:13:59] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  58%|█████▊    | 26/45 [04:55<03:18, 10.44s/it][05/29/26 06:14:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:14:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  60%|██████    | 27/45 [05:02<02:51,  9.54s/it][05/29/26 06:14:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  60%|██████    | 9/15 [05:12<03:18, 33.04s/it][A[05/29/26 06:14:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  62%|██████▏   | 28/45 [05:18<03:15, 11.52s/it][05/29/26 06:14:26] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:14:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  64%|██████▍   | 29/45 [05:31<03:07, 11.70s/it][05/29/26 06:14:39] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:14:44] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  67%|██████▋   | 30/45 [05:43<02:56, 11.76s/it][05/29/26 06:14:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  67%|██████▋   | 10/15 [05:53<02:56, 35.28s/it][A[05/29/26 06:15:01] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  69%|██████▉   | 31/45 [05:58<02:58, 12.75s/it][05/29/26 06:15:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:15:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  71%|███████   | 32/45 [06:06<02:28, 11.40s/it][05/29/26 06:15:14] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:15:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  73%|███████▎  | 33/45 [06:14<02:06, 10.54s/it][05/29/26 06:15:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  73%|███████▎  | 11/15 [06:27<02:19, 34.95s/it][A[05/29/26 06:15:35] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  76%|███████▌  | 34/45 [06:33<02:21, 12.82s/it][05/29/26 06:15:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:15:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  78%|███████▊  | 35/45 [06:45<02:06, 12.63s/it][05/29/26 06:15:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:16:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  80%|████████  | 36/45 [06:58<01:56, 12.94s/it][05/29/26 06:16:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  80%|████████  | 12/15 [07:08<01:50, 36.81s/it][A[05/29/26 06:16:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  82%|████████▏ | 37/45 [07:14<01:49, 13.74s/it][05/29/26 06:16:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:16:26] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  84%|████████▍ | 38/45 [07:24<01:29, 12.73s/it][05/29/26 06:16:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:16:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  87%|████████▋ | 39/45 [07:35<01:12, 12.09s/it][05/29/26 06:16:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  87%|████████▋ | 13/15 [07:50<01:16, 38.38s/it][A[05/29/26 06:16:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  89%|████████▉ | 40/45 [07:54<01:11, 14.31s/it][05/29/26 06:17:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:17:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  91%|█████████ | 41/45 [08:05<00:52, 13.06s/it][05/29/26 06:17:12] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:17:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  93%|█████████▎| 42/45 [08:14<00:35, 12.00s/it][05/29/26 06:17:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  93%|█████████▎| 14/15 [08:26<00:37, 37.79s/it][A[05/29/26 06:17:34] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  96%|█████████▌| 43/45 [08:30<00:26, 13.22s/it][05/29/26 06:17:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:17:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  98%|█████████▊| 44/45 [08:40<00:12, 12.23s/it][05/29/26 06:17:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:17:56] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [08:53<00:00, 12.46s/it][05/29/26 06:18:01] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress: 100%|██████████| 15/15 [09:05<00:00, 38.12s/it][AJudge Progress: 100%|██████████| 15/15 [09:05<00:00, 36.39s/it]
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [09:05<00:00, 12.13s/it]
+
+
+haiku-4.5 — repetitions:  67%|██████▋   | 2/3 [18:33<09:14, 554.78s/it][A[A✓ Results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/haiku-4.5/run_1.json
+3 Turns & 15 Scenarios | Audit Progress:   0%|          | 0/45 [00:00<?, ?it/s]
+Judge Progress:   0%|          | 0/15 [00:00<?, ?it/s][A[05/29/26 06:18:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   2%|▏         | 1/45 [00:04<03:27,  4.73s/it][05/29/26 06:18:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:18:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   4%|▍         | 2/45 [00:11<04:11,  5.86s/it][05/29/26 06:18:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:18:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   7%|▋         | 3/45 [00:16<03:45,  5.38s/it][05/29/26 06:18:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:   7%|▋         | 1/15 [00:24<05:45, 24.69s/it][A[05/29/26 06:18:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:   9%|▉         | 4/45 [00:30<06:01,  8.81s/it][05/29/26 06:18:44] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:18:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  11%|█         | 5/45 [00:40<06:06,  9.16s/it][05/29/26 06:18:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:18:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  13%|█▎        | 6/45 [00:49<06:06,  9.39s/it][05/29/26 06:19:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  13%|█▎        | 2/15 [01:03<07:08, 32.94s/it][A[05/29/26 06:19:17] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  16%|█▌        | 7/45 [01:08<07:51, 12.42s/it][05/29/26 06:19:22] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:19:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  18%|█▊        | 8/45 [01:17<07:04, 11.46s/it][05/29/26 06:19:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:19:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  20%|██        | 9/45 [01:26<06:23, 10.66s/it][05/29/26 06:19:40] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  20%|██        | 3/15 [01:36<06:35, 32.97s/it][A[05/29/26 06:19:50] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  22%|██▏       | 10/45 [01:40<06:47, 11.64s/it][05/29/26 06:19:54] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:19:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  24%|██▍       | 11/45 [01:48<05:59, 10.58s/it][05/29/26 06:20:02] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:20:07] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  27%|██▋       | 12/45 [01:57<05:30, 10.02s/it][05/29/26 06:20:11] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  27%|██▋       | 4/15 [02:08<05:57, 32.47s/it][A[05/29/26 06:20:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  29%|██▉       | 13/45 [02:13<06:15, 11.72s/it][05/29/26 06:20:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:20:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  31%|███       | 14/45 [02:22<05:41, 11.03s/it][05/29/26 06:20:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:20:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  33%|███▎      | 15/45 [02:33<05:24, 10.82s/it][05/29/26 06:20:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  33%|███▎      | 5/15 [02:45<05:41, 34.17s/it][A[05/29/26 06:20:59] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  36%|███▌      | 16/45 [02:50<06:14, 12.93s/it][05/29/26 06:21:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:21:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  38%|███▊      | 17/45 [03:01<05:42, 12.24s/it][05/29/26 06:21:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:21:20] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  40%|████      | 18/45 [03:11<05:11, 11.55s/it][05/29/26 06:21:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  40%|████      | 6/15 [03:22<05:16, 35.18s/it][A[05/29/26 06:21:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  42%|████▏     | 19/45 [03:31<06:06, 14.11s/it][05/29/26 06:21:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:21:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  44%|████▍     | 20/45 [03:39<05:09, 12.39s/it][05/29/26 06:21:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:22:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  47%|████▋     | 21/45 [03:52<04:57, 12.39s/it][05/29/26 06:22:06] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  47%|████▋     | 7/15 [04:05<05:01, 37.70s/it][A[05/29/26 06:22:19] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  49%|████▉     | 22/45 [04:10<05:23, 14.05s/it][05/29/26 06:22:23] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:22:28] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  51%|█████     | 23/45 [04:19<04:39, 12.69s/it][05/29/26 06:22:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:22:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  53%|█████▎    | 24/45 [04:27<03:58, 11.34s/it][05/29/26 06:22:41] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  53%|█████▎    | 8/15 [04:39<04:16, 36.59s/it][A[05/29/26 06:22:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  56%|█████▌    | 25/45 [04:44<04:16, 12.84s/it][05/29/26 06:22:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:23:00] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  58%|█████▊    | 26/45 [04:51<03:34, 11.28s/it][05/29/26 06:23:05] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:23:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  60%|██████    | 27/45 [05:01<03:14, 10.83s/it][05/29/26 06:23:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  60%|██████    | 9/15 [05:13<03:34, 35.80s/it][A[05/29/26 06:23:27] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  62%|██████▏   | 28/45 [05:19<03:40, 12.99s/it][05/29/26 06:23:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:23:38] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  64%|██████▍   | 29/45 [05:31<03:22, 12.65s/it][05/29/26 06:23:45] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:23:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  67%|██████▋   | 30/45 [05:44<03:13, 12.88s/it][05/29/26 06:23:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  67%|██████▋   | 10/15 [05:55<03:07, 37.55s/it][A[05/29/26 06:24:08] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  69%|██████▉   | 31/45 [05:59<03:07, 13.40s/it][05/29/26 06:24:13] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:24:18] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  71%|███████   | 32/45 [06:10<02:45, 12.71s/it][05/29/26 06:24:24] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:24:31] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  73%|███████▎  | 33/45 [06:23<02:33, 12.83s/it][05/29/26 06:24:37] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  73%|███████▎  | 11/15 [06:32<02:30, 37.66s/it][A[05/29/26 06:24:46] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  76%|███████▌  | 34/45 [06:38<02:26, 13.32s/it][05/29/26 06:24:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:24:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  78%|███████▊  | 35/45 [06:50<02:09, 12.97s/it][05/29/26 06:25:04] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:25:11] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  80%|████████  | 36/45 [07:03<01:56, 12.92s/it][05/29/26 06:25:16] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  80%|████████  | 12/15 [07:11<01:53, 37.95s/it][A[05/29/26 06:25:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  82%|████████▏ | 37/45 [07:18<01:48, 13.56s/it][05/29/26 06:25:32] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:25:36] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  84%|████████▍ | 38/45 [07:28<01:27, 12.50s/it][05/29/26 06:25:42] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:25:47] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  87%|████████▋ | 39/45 [07:40<01:13, 12.32s/it][05/29/26 06:25:53] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  87%|████████▋ | 13/15 [07:56<01:20, 40.01s/it][A[05/29/26 06:26:10] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  89%|████████▉ | 40/45 [08:01<01:15, 15.04s/it][05/29/26 06:26:15] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:26:21] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  91%|█████████ | 41/45 [08:11<00:54, 13.63s/it][05/29/26 06:26:25] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:26:29] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  93%|█████████▎| 42/45 [08:20<00:35, 11.99s/it][05/29/26 06:26:33] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress:  93%|█████████▎| 14/15 [08:29<00:38, 38.01s/it][A[05/29/26 06:26:43] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  96%|█████████▌| 43/45 [08:34<00:25, 12.65s/it][05/29/26 06:26:48] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:26:52] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress:  98%|█████████▊| 44/45 [08:44<00:11, 11.99s/it][05/29/26 06:26:58] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+[05/29/26 06:27:03] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [08:56<00:00, 11.80s/it][05/29/26 06:27:09] WARNING  max_tokens is required for Anthropic,  utils.py:402
+                             setting to 8192                                    
+
+Judge Progress: 100%|██████████| 15/15 [09:04<00:00, 36.98s/it][AJudge Progress: 100%|██████████| 15/15 [09:04<00:00, 36.29s/it]
+3 Turns & 15 Scenarios | Audit Progress: 100%|██████████| 45/45 [09:04<00:00, 12.10s/it]
+
+
+haiku-4.5 — repetitions: 100%|██████████| 3/3 [27:37<00:00, 550.02s/it][A[A
+
+                                                                       [A[A
+
+
+Models: 100%|██████████| 2/2 [1:06:01<00:00, 1923.93s/it][A[A[AModels: 100%|██████████| 2/2 [1:06:01<00:00, 1980.97s/it]
+✓ Results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/haiku-4.5/run_2.json
+✓ Repeated experiment results saved to /Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/results/opus47/nav_aap/experiment_results.json
+Traceback (most recent call last):
+  File "/Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/run_experiment.py", line 226, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/run_experiment.py", line 188, in main
+    r47 = await run_judge("claude-opus-4-7", "opus47")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/run_experiment.py", line 162, in run_judge
+    pack_stability[pack] = stability_summary(pack_results, pack)
+                           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/eirikbottennicolaysen/ClaudeWork/nordeval/judge-stability/run_experiment.py", line 122, in stability_summary
+    "cv_pct":     round(rep.cv_percent,  2),
+                        ^^^^^^^^^^^^^^
+AttributeError: 'ModelStabilityReport' object has no attribute 'cv_percent'
