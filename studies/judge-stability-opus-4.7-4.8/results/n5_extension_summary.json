@@ -1,0 +1,41 @@
+{
+  "opus47_extension": {
+    "judge": "claude-opus-4-7",
+    "n_reps": 5,
+    "elapsed_sec": 696.9,
+    "tokens": {
+      "judge_in": 120450,
+      "judge_out": 28079,
+      "auditor_in": 93933,
+      "auditor_out": 12049,
+      "target_in": 64286,
+      "target_out": 44478
+    },
+    "cost_usd": {
+      "judge": 1.3042,
+      "auditor": 0.7709,
+      "target": 0.2293,
+      "total": 2.3045
+    }
+  },
+  "opus48_extension": {
+    "judge": "claude-opus-4-8",
+    "n_reps": 5,
+    "elapsed_sec": 644.5,
+    "tokens": {
+      "judge_in": 116373,
+      "judge_out": 33393,
+      "auditor_in": 90791,
+      "auditor_out": 10472,
+      "target_in": 61037,
+      "target_out": 42039
+    },
+    "cost_usd": {
+      "judge": 1.4167,
+      "auditor": 0.7158,
+      "target": 0.217,
+      "total": 2.3494
+    }
+  },
+  "total_new_cost_usd": 4.6539
+}

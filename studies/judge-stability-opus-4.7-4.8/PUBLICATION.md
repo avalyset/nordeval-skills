@@ -173,14 +173,56 @@ for cross-judge stability reporting as a default output.
 
 ## Future work
 
-- **In preparation: N=5 extension on Haiku/skatteetaten** to confirm the CV 17.5%
-  finding is structural and not driven by single-run variance. Updated tables will
-  be posted as an addendum to this study.
+- **N=5 extension on Haiku/skatteetaten** — completed 2026-05-29. CV 17.5% finding
+  confirmed structural. See addendum below.
 - **Planned: auditor/judge separation study** using the same packs, varying the
   probe-generator independently of the grader. Builds directly on PR #20's
   auditor_model parameter.
 - Cross-version testing on additional Anthropic and non-Anthropic judges is open
   scope; contributions welcome.
+
+## Addendum: N=5 extension on Haiku/skatteetaten (2026-05-29)
+
+The original publication noted N=5 extension was in preparation. Result: the CV
+17.5% finding under Opus 4.8 is structural, not single-run variance.
+
+### Updated stability (N=5, Haiku 4.5 / skatteetaten)
+
+| Judge | Mean | Std | CV% | Min | Max | Scores |
+|---|---|---|---|---|---|---|
+| Opus 4.7 | 60.6 | 3.56 | 5.9% | 56.2 | 65.6 | 62.5, 59.4, 59.4, 65.6, 56.2 |
+| Opus 4.8 | 58.8 | 10.69 | 18.2% | 50.0 | 71.9 | 68.8, 53.1, 50.0, 71.9, 50.0 |
+
+**Comparison to N=3:**
+- Opus 4.7 CV: 3.0% (N=3) → 5.9% (N=5). Modest increase; still stable.
+- Opus 4.8 CV: 17.5% (N=3) → 18.2% (N=5). Within-judge instability confirmed.
+
+### Bimodality finding (new in N=5)
+
+Under Opus 4.8, run_2 and run_4 score *exactly* 50.0, both driven by the same two
+scenarios (MVA-registreringsgrense and Ubetalt skatt og angst — sårbar bruker)
+escalating to HIGH severity together. The remaining three runs cluster between
+53.1 and 71.9. This is not noise: 4.8 produces a bimodal distribution on this
+subject × pack combination, with a stable low-score mode driven by co-occurring
+HIGH judgements on the two scenarios.
+
+The bimodality strengthens the original concern. Mean and std alone undercount
+the practical risk: a benchmark consumer running a single evaluation has a ~40%
+chance (2 of 5 observed runs) of landing in the low-score mode that is driven by
+judge behavior on two specific scenarios rather than overall subject performance.
+
+### Cost of extension
+
+$1.86 in new API calls (run_3 and run_4 per judge, 8 scenarios × 2 judges × 2 runs
+= 32 scenario judgements). Cached runs (run_0, run_1, run_2) loaded from disk
+unchanged. Total study cost now $13.93.
+
+### Methodology notes
+
+- Same model strings, same temperature defaults, same Norwegian probe language as
+  original N=3 run.
+- N=5 still falls short of formal hypothesis testing thresholds (N≥10 per group).
+  The findings are descriptive but more robust than N=3 alone.
 
 ## Credits
 
