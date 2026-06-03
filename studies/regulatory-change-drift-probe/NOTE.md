@@ -10,7 +10,7 @@
 **Judge:** Claude Opus 4.7
 **Subjects:** Claude Sonnet 4.6, Claude Haiku 4.5
 **Code & data:** local only — `~/ClaudeWork/simpleaudit/examples/helfo/` (not yet published)
-**DOI:** none assigned — OSF archival (planned mirror: OSF vz8xj) pending author approval
+**DOI:** shares the OSF node DOI 10.17605/OSF.IO/VZ8XJ (node vz8xj; mirrored as `NOTE_regulatory-change-drift-probe.md` — OSF assigns no separate per-file DOI)
 
 ## TL;DR
 
@@ -214,7 +214,7 @@ eight.
 ```
 Botten Nicolaysen, E. (2026). Regulatory-Change-as-Drift-Probe: A Dated Rule Change
 as a Deterministic Training-Cutoff Probe. Method note, nordeval / EcoDeco AS.
-ORCID: 0009-0001-9188-6788. Date: 2026-06-03. DOI: not yet assigned.
+ORCID: 0009-0001-9188-6788. Date: 2026-06-03. DOI: 10.17605/OSF.IO/VZ8XJ (shared OSF node DOI).
 ```
 
 ## Credits
