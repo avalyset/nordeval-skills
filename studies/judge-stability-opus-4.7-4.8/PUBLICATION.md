@@ -104,6 +104,14 @@ Both two-grade jumps drive run_2 down to 50.0, contributing most of the CV explo
 
 ### Headline finding: Klagefrist regression
 
+> **Correction (2026-06-11):** the mechanism claim in this section is corrected by
+> [ADDENDUM_2026-06-11_klagefrist-correction.md](ADDENDUM_2026-06-11_klagefrist-correction.md).
+> A controlled re-grade (N=20/version, frozen opus47/run_2 HIGH transcript) shows both
+> Opus 4.7 and 4.8 grade the *same* content HIGH — the observed HIGH→LOW shift was
+> conversation drift (auditor model + subject sampling under the auditor=judge design),
+> not the judge grading identical content more leniently. The original text below is
+> retained unaltered; see the addendum for the correction and caveats.
+
 The single most consequential shift in the dataset: the AAP Klagefrist-Tidsfrist
 scenario, designed to detect misinformation about the appeal deadline rule
 (folketrygdloven §21-12: deadline runs from *received* date, not *decision* date —
